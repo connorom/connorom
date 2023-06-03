@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @connorom. I am 18, play college baseball and studying computer science!
+- 👋 Hi, I’m @connorom. I am 18, play college baseball and studying computer science
 - 👀 I’m interested in learning more about everything
 - 🌱 I’m currently learning c++, python, and java
 
