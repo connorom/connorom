@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @connorom. I am 18, play college baseball and studying computer engineering
-- 👀 I’m interested in learning more about everything
-- 🌱 I’m currently learning c, python, and java
+- 👋 Hi, I’m @connorom. I am 19, play college baseball and studying computer engineering
+- 👀 I’m interested in learning more about web development, and servers
+- 🌱 I’m currently learning c and java
 
 <!---
 connorom/connorom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
